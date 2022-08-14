@@ -3,7 +3,7 @@
 A Wordle game clone built using React, Tailwind
 
 Deployed on Vercel:
-[Play here](https://react-fp-wordle-imzyn55rw-ashar340.vercel.app/)
+[Play here](https://my-wordle.vercel.app/)
 
 State Management using Hooks.
 
