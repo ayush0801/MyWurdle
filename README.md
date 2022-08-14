@@ -5,8 +5,8 @@ A Wordle game clone built using React, Tailwind
 Deployed on Vercel:
 [Play here](https://my-wordle.vercel.app/)
 
-PFA the screenshot after deployment:
-\n
+PFA the screenshot after deployment: <br />
+
 <img src = "https://i.ibb.co/Ltx915x/ss-wordle.png" alt="ss-wordle">
 
 State Management using Hooks.
