@@ -6,6 +6,7 @@ Deployed on Vercel:
 [Play here](https://my-wordle.vercel.app/)
 
 PFA the screenshot after deployment:
+\n
 <img src = "https://i.ibb.co/Ltx915x/ss-wordle.png" alt="ss-wordle">
 
 State Management using Hooks.
